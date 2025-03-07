@@ -27,7 +27,7 @@
 
 <h3><a href="https://github.com/git-marvel/commit-guardians-client">Commit Guardians</a></h3>
 
-- 팀 프로젝트
+- 팀 프로젝트 (3인)
 - 깃허브 레포지토리의 커밋 퀄리티를 계산한 점수를 바탕으로 주어진 뱃지를 마크업 문서에 올릴 수 있는 프로젝트입니다.
 - 커밋 메시지와 코드 변경 간의 일치성을 판단하여 일관된 커밋 형식을 지키고 있는지 확인합니다.
 - <a href="https://commitguardians.netlify.app">배포 링크</a>
